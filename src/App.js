@@ -9,6 +9,7 @@ function App() {
         <h1>Attendance Web App!</h1>
         <p>Hello</p>
         <p>Hello</p>
+        <p>Hello</p>
       </header>
     </div>
   );
